@@ -1,0 +1,8 @@
+{
+  "name": "rukn-product-proxy",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Optional authorized Saudi product lookup proxy; no secrets in the APK.",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.mjs" }
+}
